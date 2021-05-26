@@ -1,13 +1,4 @@
 /*
- Navicat Premium Data Transfer
-
- Source Server         : Local
- Source Server Type    : PostgreSQL
- Source Server Version : 130003
- Source Host           : 127.0.0.1:5432
- Source Catalog        : world
- Source Schema         : world
-
  Target Server Type    : PostgreSQL
  Target Server Version : 130003
  File Encoding         : 65001
